@@ -1,3 +1,9 @@
+grub2 (2.02-2vyatta7) unstable; urgency=medium
+
+  * PXE boot fails due to missing read request for grub.cfg
+
+ -- Mike Manning <mmanning@vyatta.att-mail.com>  Fri, 20 Aug 2021 16:18:09 +0100
+
 grub2 (2.02-2vyatta6) unstable; urgency=medium
 
   * PXE boot fails due to missing read request for grub.cfg
